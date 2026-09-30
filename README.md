@@ -13,10 +13,9 @@ Use this directory to compare free and paid launch options, submission costs, an
     <tr>
       <th>Platform</th>
       <th>Plan</th>
-      <th>Type</th>
       <th>Price</th>
-      <th>Time to live</th>
-      <th>What you get / conditions</th>
+      <th>Pros</th>
+      <th>Cons</th>
     </tr>
   </thead>
   <tbody>
@@ -24,419 +23,362 @@ Use this directory to compare free and paid launch options, submission costs, an
       <td><a href="https://www.producthunt.com/launch">Product Hunt</a></td>
       <td>Standard launch</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Choose or schedule a launch day</td>
-      <td>Launches start at 12:01 AM Pacific. Advertising is separate from product submission.</td>
+      <td>Free access to a large product-launch community and daily leaderboard.</td>
+      <td>Competitive daily leaderboard; no guaranteed ranking, traffic, or launch outcome.</td>
     </tr>
     <tr>
       <td rowspan="3"><a href="https://confettisaas.com/submit">ConfettiSaaS</a></td>
       <td>Standard listing</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Manual review; no published SLA</td>
-      <td>Owner-reviewed listing.</td>
+      <td>Free directory listing.</td>
+      <td>Manual review with no published turnaround.</td>
     </tr>
     <tr>
       <td>Starter sponsorship</td>
-      <td>Paid</td>
       <td>$50 once</td>
-      <td>No published activation SLA</td>
       <td>Two weeks of promotional placement.</td>
+      <td>Promotion lasts two weeks and does not expedite listing review.</td>
     </tr>
     <tr>
       <td>Premium sponsorship</td>
-      <td>Paid</td>
       <td>$70 once</td>
-      <td>No published activation SLA</td>
       <td>Four weeks of promotional placement plus newsletter inclusion.</td>
+      <td>Promotion lasts four weeks and does not expedite listing review.</td>
     </tr>
     <tr>
       <td rowspan="4"><a href="https://nicklaunches.com/submit/">Nick Launches</a></td>
       <td>Free launch</td>
       <td>Free</td>
-      <td>Not publicly stated</td>
-      <td>Weekly cycle; available weeks shown after sign-in</td>
-      <td>Reviewed launch. A visible backlink badge may be required.</td>
+      <td>Free placement on a weekly launch board.</td>
+      <td>Requires review; available weeks are sign-in gated and a badge may be required.</td>
     </tr>
     <tr>
       <td>Pro</td>
-      <td>Paid</td>
       <td>Shown after sign-in</td>
-      <td>Selected launch week; review SLA not published</td>
-      <td>Current public pages do not enumerate exact benefits.</td>
+      <td>Paid launch placement with a selected launch week.</td>
+      <td>Current price, benefits, and review SLA are not public.</td>
     </tr>
     <tr>
       <td>Premium</td>
-      <td>Paid</td>
       <td>Shown after sign-in</td>
-      <td>Selected launch week; review SLA not published</td>
-      <td>Current public pages do not enumerate exact benefits.</td>
+      <td>Paid launch placement with a selected launch week.</td>
+      <td>Current price, benefits, and review SLA are not public.</td>
     </tr>
     <tr>
       <td>Ultimate</td>
-      <td>Paid</td>
       <td>Shown after sign-in</td>
-      <td>Selected launch week; review SLA not published</td>
-      <td>Current public pages do not enumerate exact benefits.</td>
+      <td>Highest paid launch tier with a selected launch week.</td>
+      <td>Current price, benefits, and review SLA are not public.</td>
     </tr>
     <tr>
       <td rowspan="5"><a href="https://www.uneed.best/pricing">Uneed</a></td>
       <td>Join the line</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>30 days to 5 months</td>
-      <td>Uneed assigns the date. Score thresholds determine continued publication and dofollow status.</td>
+      <td>Free scheduled product launch.</td>
+      <td>Wait can range from 30 days to five months; score thresholds apply.</td>
     </tr>
     <tr>
       <td>Fast-track</td>
-      <td>Paid</td>
       <td>$14.99</td>
-      <td>About 14 days</td>
       <td>Earlier assigned slot and lower dofollow score threshold.</td>
+      <td>Still waits about 14 days; score threshold still applies.</td>
     </tr>
     <tr>
       <td>Skip the line</td>
-      <td>Paid</td>
       <td>$29.99</td>
-      <td>Choose an available date</td>
       <td>Guaranteed dofollow backlink.</td>
+      <td>Availability depends on open launch dates.</td>
     </tr>
     <tr>
       <td>Relaunch</td>
-      <td>Paid</td>
       <td>$15</td>
-      <td>Not published</td>
       <td>Another launch for an existing listing.</td>
+      <td>Only useful for a product already listed on Uneed.</td>
     </tr>
     <tr>
       <td>Uneed Pro</td>
-      <td>Paid</td>
       <td>$12.99/month or $99/year</td>
-      <td>Membership benefits activate after payment</td>
       <td>Includes community and launch benefits; yearly plan includes one Skip-the-Line credit.</td>
+      <td>Recurring membership; not a standalone guaranteed launch.</td>
     </tr>
     <tr>
       <td rowspan="3"><a href="https://domainrating.lol/#submit">domainrating.lol</a></td>
       <td>Badge route</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>3–6 weeks</td>
-      <td>Requires a verified followed badge.</td>
+      <td>Free ranked listing with a followed link after approval.</td>
+      <td>Requires a followed badge and a 3–6 week review.</td>
     </tr>
     <tr>
       <td>Unlock</td>
-      <td>Paid</td>
       <td>$19 once</td>
-      <td>Immediate after payment</td>
       <td>Permanent unlocked card, followed link, seven landing-page days, and weekly-pick eligibility.</td>
+      <td>One-time payment for one listing; rank is unaffected.</td>
     </tr>
     <tr>
       <td>Landing Page spot</td>
-      <td>Paid</td>
       <td>$4/day; 3-day minimum</td>
-      <td>Runs on selected dates</td>
       <td>Sponsored visibility only; payment does not affect directory ranking.</td>
+      <td>Three-day minimum and temporary visibility; rank is unaffected.</td>
     </tr>
     <tr>
       <td rowspan="2"><a href="https://daniellaunches.com/pricing">DanielLaunches</a></td>
       <td>Standard</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Standard queue; exact wait not published</td>
-      <td>Requires an active badge. Platform publishes eight launches per day.</td>
+      <td>Permanent product page, traffic statistics, and two backlinks.</td>
+      <td>Requires an active badge and waits in the standard queue.</td>
     </tr>
     <tr>
       <td>Pro</td>
-      <td>Paid</td>
       <td>$9.99 once</td>
-      <td>Priority placement; no standard queue</td>
       <td>No badge requirement and one of four featured spots per day.</td>
+      <td>Only four priority featured spots are available per day.</td>
     </tr>
     <tr>
       <td rowspan="4"><a href="https://www.tinylaunch.com/pricing">TinyLaunch</a></td>
       <td>Standard launch</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>About 4 weeks</td>
       <td>Queued launch with homepage visibility.</td>
+      <td>Roughly four-week queue.</td>
     </tr>
     <tr>
       <td>Premium Launch</td>
-      <td>Paid</td>
       <td>$39 per launch</td>
-      <td>Next Monday</td>
       <td>Skips the queue and guarantees a permanent dofollow backlink.</td>
+      <td>Launch is scheduled for the next Monday rather than immediately.</td>
     </tr>
     <tr>
       <td>Top Spot</td>
-      <td>Paid</td>
       <td>$30/week</td>
-      <td>Selected promotion period</td>
       <td>Top promotional placement.</td>
+      <td>Temporary promotion; does not replace a launch submission.</td>
     </tr>
     <tr>
       <td>Mid-Feed Spot</td>
-      <td>Paid</td>
       <td>$15/week</td>
-      <td>Selected promotion period</td>
       <td>Mid-feed promotional placement.</td>
+      <td>Temporary and less prominent than the Top Spot.</td>
     </tr>
     <tr>
       <td rowspan="4"><a href="https://tools.launchllama.co/pricing">Launch Llama</a></td>
       <td>Free</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>About 4 weeks</td>
       <td>One reviewed tool listing with basic placement and analytics.</td>
+      <td>Reviewed submission with an approximately four-week wait.</td>
     </tr>
     <tr>
       <td>Instant Launch</td>
-      <td>Paid</td>
       <td>$39 once</td>
-      <td>Immediate after payment</td>
       <td>Immediate publication, permanent dofollow backlink, and indexing support.</td>
+      <td>One-time upgrade for one submission.</td>
     </tr>
     <tr>
       <td>Featured weekly</td>
-      <td>Paid</td>
       <td>$29/week</td>
-      <td>Immediate after payment</td>
       <td>Priority placement and promotion for up to three tools.</td>
+      <td>Recurring weekly cost and supports at most three tools.</td>
     </tr>
     <tr>
       <td>Featured monthly</td>
-      <td>Paid</td>
       <td>$99/month</td>
-      <td>Immediate after payment</td>
       <td>Monthly featured placement, promotion, analytics, and newsletter inclusion.</td>
+      <td>Recurring monthly cost and supports at most three tools.</td>
     </tr>
     <tr>
       <td><a href="https://outbid-directory.lol/">Outbid Directory</a></td>
       <td>Pay to list</td>
-      <td>Paid</td>
       <td>Pay what you want; $9 minimum</td>
-      <td>Immediate after Stripe confirms</td>
-      <td>Listings rank by cumulative payment. Existing listings can be topped up.</td>
+      <td>Immediate listing with a permanent card.</td>
+      <td>Pay-to-rank model; competitors can outbid you and top-ups may be needed.</td>
     </tr>
     <tr>
       <td rowspan="3"><a href="https://microlaunch.net/premium">MicroLaunch</a></td>
       <td>Regular launch</td>
       <td>Free</td>
-      <td>Not explicitly published</td>
-      <td>Automatic queue; ETA not published</td>
-      <td>Regular launch awaiting automatic scheduling.</td>
+      <td>Queued product launch without a documented payment requirement.</td>
+      <td>The public page does not explicitly state the price or queue duration.</td>
     </tr>
     <tr>
       <td>Launch Pro</td>
-      <td>Paid</td>
       <td>$39 sale; $49 list</td>
-      <td>Skip the queue; launch anytime</td>
       <td>30-day campaign, boosts, featured placements, and permanent backlinks.</td>
+      <td>Sale price may change; no numerical publication SLA.</td>
     </tr>
     <tr>
       <td>Launch Plus</td>
-      <td>Paid</td>
       <td>$79 sale; $99 list</td>
-      <td>Skip the queue; launch anytime</td>
       <td>Pro benefits plus long-form pages, more boosts, social promotion, and premium category placement.</td>
+      <td>Higher cost, sale price may change, and no numerical publication SLA.</td>
     </tr>
     <tr>
       <td rowspan="4"><a href="https://dailypings.com/pricing">DailyPings</a></td>
       <td>Badge listing</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Instant after badge verification</td>
       <td>Dofollow link while the badge remains active and 24 hours in “Newly launched.”</td>
+      <td>Badge is checked daily; listing can be removed if it disappears.</td>
     </tr>
     <tr>
       <td>Premium</td>
-      <td>Paid</td>
       <td>$19 once</td>
-      <td>Live in seconds</td>
       <td>No badge requirement, permanent dofollow backlink, seven days in “Newly launched,” and newsletter inclusion.</td>
+      <td>Benefits apply to one paid listing.</td>
     </tr>
     <tr>
       <td>Site sponsor</td>
-      <td>Paid</td>
       <td>$19.67/week</td>
-      <td>Selected sponsorship period</td>
       <td>Site-wide promotional placement.</td>
+      <td>Temporary advertising, not a listing or launch upgrade.</td>
     </tr>
     <tr>
       <td>Newsletter sponsor</td>
-      <td>Paid</td>
       <td>$49/issue</td>
-      <td>Selected newsletter issue</td>
       <td>Newsletter sponsorship placement.</td>
+      <td>Single-issue advertising, not a listing or launch upgrade.</td>
     </tr>
     <tr>
       <td rowspan="3"><a href="https://launchigniter.com/pricing">LaunchIgniter</a></td>
       <td>Free Launch</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Manual review and queue; date may move</td>
-      <td>Requires a badge and includes seven days of homepage visibility.</td>
+      <td>Seven days of homepage visibility with a chance to earn a dofollow backlink.</td>
+      <td>Requires a badge and manual review; the requested date can move.</td>
     </tr>
     <tr>
       <td>Basic Launch</td>
-      <td>Paid</td>
       <td>$12 once</td>
-      <td>Guaranteed selected Monday</td>
       <td>No badge, no review queue, and a lifetime dofollow backlink.</td>
+      <td>Launches only begin on Mondays.</td>
     </tr>
     <tr>
       <td>Pro Launch</td>
-      <td>Paid</td>
       <td>$15 once</td>
-      <td>Guaranteed selected Monday</td>
       <td>Basic benefits plus additional lifetime backlinks.</td>
+      <td>Launches only begin on Mondays.</td>
     </tr>
     <tr>
       <td rowspan="5"><a href="https://www.touched-grass.com/create-profile">Touched Grass</a></td>
       <td>Public profile</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Self-service; no published SLA</td>
-      <td>Founder profile and free badges rather than a conventional product launch.</td>
+      <td>Free public founder profile and badges.</td>
+      <td>Founder profile rather than a conventional product launch platform.</td>
     </tr>
     <tr>
       <td>Premium Badges</td>
-      <td>Paid</td>
       <td>$4.99 lifetime</td>
-      <td>After payment</td>
       <td>Premium badge access; not a listing upgrade.</td>
+      <td>Badge access only; does not upgrade listing visibility.</td>
     </tr>
     <tr>
       <td>Unlock Links</td>
-      <td>Paid</td>
       <td>$19.99 once</td>
-      <td>Instant</td>
       <td>Clickable profile links and a permanent dofollow backlink.</td>
+      <td>Improves a founder profile, not a product launch.</td>
     </tr>
     <tr>
       <td>Get Featured</td>
-      <td>Paid</td>
       <td>$29.99 per 30 days</td>
-      <td>Instant</td>
       <td>Top-of-homepage placement with featured styling.</td>
+      <td>Temporary 30-day placement on a founder-profile site.</td>
     </tr>
     <tr>
       <td>Ultimate Deal</td>
-      <td>Paid</td>
       <td>$39.99 once</td>
-      <td>Instant</td>
       <td>Unlock Links, 30-day featured placement, and lifetime Premium Badges.</td>
+      <td>Profile promotion rather than a conventional product launch.</td>
     </tr>
     <tr>
       <td rowspan="3"><a href="https://listbulb.com/pricing">ListBulb</a></td>
       <td>Free</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>24–48 hours</td>
+      <td>Free directory listing with a 24–48 hour review target.</td>
       <td>Requires badge verification and three weekly upvotes.</td>
     </tr>
     <tr>
       <td>QuickPass</td>
-      <td>Paid</td>
       <td>$10.50 sale; $15 list</td>
-      <td>Priority review within 6 hours</td>
       <td>Faster review without the free-tier waiting conditions.</td>
+      <td>Sale price may change; does not include featured placement.</td>
     </tr>
     <tr>
       <td>Featured</td>
-      <td>Paid</td>
       <td>$21 sale; $30 list</td>
-      <td>Priority review within 6 hours</td>
       <td>QuickPass benefits plus featured placement.</td>
+      <td>Sale price may change; promotion value depends on directory traffic.</td>
     </tr>
     <tr>
       <td rowspan="2"><a href="https://fazier.com/launch">Fazier</a></td>
       <td>Standard launch</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Daily cycle; exact queue not published</td>
-      <td>Reviewed product launch.</td>
+      <td>Free reviewed product launch.</td>
+      <td>Reviewed submission with no published queue duration.</td>
     </tr>
     <tr>
       <td>Premium</td>
-      <td>Paid</td>
       <td>$49</td>
-      <td>After approval</td>
       <td>15 days of promotion, homepage placement, and a permanent dofollow backlink.</td>
+      <td>Still requires approval and promotion lasts 15 days.</td>
     </tr>
     <tr>
       <td rowspan="3"><a href="https://www.aidirectori.es/pricing">AI Directories</a></td>
       <td>30+ directories</td>
-      <td>Paid</td>
       <td>$99</td>
-      <td>No guaranteed public SLA</td>
       <td>Done-for-you submission to more than 30 directories.</td>
+      <td>No guaranteed delivery SLA or placement acceptance.</td>
     </tr>
     <tr>
       <td>60+ directories</td>
-      <td>Paid</td>
       <td>$149</td>
-      <td>No guaranteed public SLA</td>
       <td>Done-for-you submission to more than 60 directories.</td>
+      <td>No guaranteed delivery SLA or placement acceptance.</td>
     </tr>
     <tr>
       <td>100+ directories</td>
-      <td>Paid</td>
       <td>$199</td>
-      <td>No guaranteed public SLA</td>
       <td>Done-for-you submission to more than 100 directories.</td>
+      <td>Highest upfront cost; no guaranteed delivery SLA or placement acceptance.</td>
     </tr>
     <tr>
       <td rowspan="2"><a href="https://devhunt.org/faq">DevHunt</a></td>
       <td>Free launch</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Assigned from queue; exact wait not published</td>
-      <td>Developer tools only; free link is nofollow.</td>
+      <td>Free launch to a developer-focused audience.</td>
+      <td>Developer tools only; queued launch and nofollow link.</td>
     </tr>
     <tr>
       <td>Paid launch</td>
-      <td>Paid</td>
       <td>$49 once</td>
-      <td>Choose any launch week</td>
       <td>Permanent dofollow link.</td>
+      <td>Developer tools only; still subject to platform eligibility.</td>
     </tr>
     <tr>
       <td rowspan="4"><a href="https://peerpush.com/pricing">PeerPush</a></td>
       <td>Free</td>
       <td>Free</td>
-      <td>$0</td>
-      <td>Wait behind paid launches; ETA not published</td>
-      <td>Joins the publishing queue.</td>
+      <td>Free listing in the publication queue.</td>
+      <td>Waits behind paid launches with no published ETA.</td>
     </tr>
     <tr>
       <td>Standard</td>
-      <td>Paid</td>
       <td>$39</td>
-      <td>Live in 60 seconds</td>
       <td>Instant publication.</td>
+      <td>One-time listing without an extended visibility boost.</td>
     </tr>
     <tr>
       <td>7-day boost</td>
-      <td>Paid</td>
       <td>$89</td>
-      <td>Live in 60 seconds</td>
       <td>Instant publication plus seven days of boosted visibility.</td>
+      <td>Boost ends after seven days.</td>
     </tr>
     <tr>
       <td>30-day boost</td>
-      <td>Paid</td>
       <td>$229</td>
-      <td>Live in 60 seconds</td>
       <td>Instant publication plus 30 days of boosted visibility.</td>
+      <td>Highest PeerPush price; boost ends after 30 days.</td>
     </tr>
     <tr>
       <td><a href="https://betalist.com/submit">BetaList</a></td>
       <td>Paid submission</td>
-      <td>Paid</td>
       <td>Shown at final submission step</td>
-      <td>Plan-dependent; shown before checkout</td>
-      <td>No free submission. Rejected submissions are refunded automatically.</td>
+      <td>Access to BetaList submission and automatic refund if rejected.</td>
+      <td>No free tier; price and schedule are hidden until the final submission step.</td>
     </tr>
   </tbody>
 </table>
