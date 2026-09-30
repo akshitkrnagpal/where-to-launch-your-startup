@@ -1,20 +1,58 @@
-platform,domain,submission_url,free_available,free_cost,paid_available,paid_cost,free_eta,paid_eta,important_condition,checked_on
-Product Hunt,producthunt.com,https://www.producthunt.com/launch,yes,$0,no,N/A,chosen or scheduled launch day,N/A,Launch day begins at 12:01 AM Pacific,2026-09-30
-ConfettiSaaS,confettisaas.com,https://confettisaas.com/submit,yes,$0,yes,"$50 Starter sponsorship; $70 Premium sponsorship","manual review; not published",placement activation SLA not published,Paid products are promotional placements rather than fast-track review,2026-09-30
-Nick Launches,nicklaunches.com,https://nicklaunches.com/submit/,yes,not publicly stated,yes,shown after sign-in and plan selection,weekly cycle,selected launch week,Submissions are reviewed and current prices are not public,2026-09-30
-Uneed,uneed.best,https://www.uneed.best/pricing,yes,$0,yes,"$14.99 fast-track; $29.99 choose date; $15 relaunch",30 days to 5 months,"about 14 days or chosen date",Free launches need score thresholds to remain published and keep a dofollow link,2026-09-30
-domainrating.lol,domainrating.lol,https://domainrating.lol/#submit,yes,$0,yes,"$19 unlock; $4/day featured with 3-day minimum",3–6 weeks with verified badge,immediate after payment,Payment does not affect ranking,2026-09-30
-DanielLaunches,daniellaunches.com,https://daniellaunches.com/pricing,yes,$0,yes,$9.99 one-time,"standard queue; 8 launches/day",no standard queue,Free listing requires an active badge,2026-09-30
-TinyLaunch,tinylaunch.com,https://www.tinylaunch.com/pricing,yes,$0,yes,$39 one-time,about 4 weeks,next Monday,Paid launch skips the queue,2026-09-30
-Launch Llama,tools.launchllama.co,https://tools.launchllama.co/pricing,yes,$0,yes,"$39 instant; $29/week or $99/month featured",about 4 weeks,immediate after payment,Free listing is permanent and paid tiers add promotion,2026-09-30
-Outbid Directory,outbid-directory.lol,https://outbid-directory.lol/,no,N/A,yes,$9 minimum,N/A,immediate after Stripe,Listings rank by cumulative payment,2026-09-30
-MicroLaunch,microlaunch.net,https://microlaunch.net/premium,yes,regular launch,yes,"$39 sale/$49 list Pro; $79 sale/$99 list Plus",not published,"queue skipped; 30-day campaign",Paid launches add visibility and promotion,2026-09-30
-DailyPings,dailypings.com,https://dailypings.com/pricing,yes,$0 with badge,yes,$19 one-time,instant after badge verification,live in seconds,Premium removes the badge requirement,2026-09-30
-LaunchIgniter,launchigniter.com,https://launchigniter.com/pricing,yes,$0,yes,"$12 Basic; $15 Pro",manual review and queue,guaranteed selected date,Launches begin Monday at 00:00 UTC,2026-09-30
-Touched Grass,touched-grass.com,https://www.touched-grass.com/create-profile,yes,$0,yes,"$19.99 unlock; $29.99 featured; $39.99 bundle",self-service; no SLA,instant,Founder profile rather than conventional product launch platform,2026-09-30
-ListBulb,listbulb.com,https://listbulb.com/pricing,yes,$0,yes,"$10.50 sale/$15 list QuickPass; $21 sale/$30 list Featured",24–48 hours,within 6 hours,Free submission requires badge verification and weekly upvotes,2026-09-30
-Fazier,fazier.com,https://fazier.com/launch,yes,$0,yes,$49 premium,daily cycle; not published,"after approval; 15-day promotion",Premium adds homepage placement,2026-09-30
-AI Directories,aidirectori.es,https://www.aidirectori.es/pricing,no,N/A,yes,"$99/30+; $149/60+; $199/100+",N/A,not guaranteed publicly,Done-for-you multi-directory submission service,2026-09-30
-DevHunt,devhunt.org,https://devhunt.org/faq,yes,$0,yes,$49 one-time,assigned queue,choose any launch week,Developer tools only,2026-09-30
-PeerPush,peerpush.com,https://peerpush.com/pricing,yes,$0,yes,"$39 standard; $89/7-day; $229/30-day",behind paid queue,live in 60 seconds,Free listings join the publishing queue,2026-09-30
-BetaList,betalist.com,https://betalist.com/submit,no,N/A,yes,shown at final submission step,N/A,plan-dependent,Rejected submissions are refunded automatically,2026-09-30
+platform,platform_url,plan,type,price,time_to_live,details,checked_on
+Product Hunt,https://www.producthunt.com/launch,Standard launch,Free,$0,Choose or schedule a launch day,Launches start at 12:01 AM Pacific. Advertising is separate from product submission.,2026-09-30
+ConfettiSaaS,https://confettisaas.com/submit,Standard listing,Free,$0,Manual review; no published SLA,Owner-reviewed listing.,2026-09-30
+ConfettiSaaS,https://confettisaas.com/submit,Starter sponsorship,Paid,$50 once,No published activation SLA,Two weeks of promotional placement.,2026-09-30
+ConfettiSaaS,https://confettisaas.com/submit,Premium sponsorship,Paid,$70 once,No published activation SLA,Four weeks of promotional placement plus newsletter inclusion.,2026-09-30
+Nick Launches,https://nicklaunches.com/submit/,Free launch,Free,Not publicly stated,Weekly cycle; available weeks shown after sign-in,Reviewed launch. A visible backlink badge may be required.,2026-09-30
+Nick Launches,https://nicklaunches.com/submit/,Pro,Paid,Shown after sign-in,Selected launch week; review SLA not published,Current public pages do not enumerate exact benefits.,2026-09-30
+Nick Launches,https://nicklaunches.com/submit/,Premium,Paid,Shown after sign-in,Selected launch week; review SLA not published,Current public pages do not enumerate exact benefits.,2026-09-30
+Nick Launches,https://nicklaunches.com/submit/,Ultimate,Paid,Shown after sign-in,Selected launch week; review SLA not published,Current public pages do not enumerate exact benefits.,2026-09-30
+Uneed,https://www.uneed.best/pricing,Join the line,Free,$0,30 days to 5 months,Uneed assigns the date. Score thresholds determine continued publication and dofollow status.,2026-09-30
+Uneed,https://www.uneed.best/pricing,Fast-track,Paid,$14.99,About 14 days,Earlier assigned slot and lower dofollow score threshold.,2026-09-30
+Uneed,https://www.uneed.best/pricing,Skip the line,Paid,$29.99,Choose an available date,Guaranteed dofollow backlink.,2026-09-30
+Uneed,https://www.uneed.best/pricing,Relaunch,Paid,$15,Not published,Another launch for an existing listing.,2026-09-30
+Uneed,https://www.uneed.best/pricing,Uneed Pro,Paid,$12.99/month or $99/year,Membership benefits activate after payment,Includes community and launch benefits; yearly plan includes one Skip-the-Line credit.,2026-09-30
+domainrating.lol,https://domainrating.lol/#submit,Badge route,Free,$0,3–6 weeks,Requires a verified followed badge.,2026-09-30
+domainrating.lol,https://domainrating.lol/#submit,Unlock,Paid,$19 once,Immediate after payment,"Permanent unlocked card, followed link, seven landing-page days, and weekly-pick eligibility.",2026-09-30
+domainrating.lol,https://domainrating.lol/#submit,Landing Page spot,Paid,$4/day; 3-day minimum,Runs on selected dates,Sponsored visibility only; payment does not affect directory ranking.,2026-09-30
+DanielLaunches,https://daniellaunches.com/pricing,Standard,Free,$0,Standard queue; exact wait not published,Requires an active badge. Platform publishes eight launches per day.,2026-09-30
+DanielLaunches,https://daniellaunches.com/pricing,Pro,Paid,$9.99 once,Priority placement; no standard queue,No badge requirement and one of four featured spots per day.,2026-09-30
+TinyLaunch,https://www.tinylaunch.com/pricing,Standard launch,Free,$0,About 4 weeks,Queued launch with homepage visibility.,2026-09-30
+TinyLaunch,https://www.tinylaunch.com/pricing,Premium Launch,Paid,$39 per launch,Next Monday,Skips the queue and guarantees a permanent dofollow backlink.,2026-09-30
+TinyLaunch,https://www.tinylaunch.com/pricing,Top Spot,Paid,$30/week,Selected promotion period,Top promotional placement.,2026-09-30
+TinyLaunch,https://www.tinylaunch.com/pricing,Mid-Feed Spot,Paid,$15/week,Selected promotion period,Mid-feed promotional placement.,2026-09-30
+Launch Llama,https://tools.launchllama.co/pricing,Free,Free,$0,About 4 weeks,One reviewed tool listing with basic placement and analytics.,2026-09-30
+Launch Llama,https://tools.launchllama.co/pricing,Instant Launch,Paid,$39 once,Immediate after payment,"Immediate publication, permanent dofollow backlink, and indexing support.",2026-09-30
+Launch Llama,https://tools.launchllama.co/pricing,Featured weekly,Paid,$29/week,Immediate after payment,Priority placement and promotion for up to three tools.,2026-09-30
+Launch Llama,https://tools.launchllama.co/pricing,Featured monthly,Paid,$99/month,Immediate after payment,"Monthly featured placement, promotion, analytics, and newsletter inclusion.",2026-09-30
+Outbid Directory,https://outbid-directory.lol/,Pay to list,Paid,Pay what you want; $9 minimum,Immediate after Stripe confirms,Listings rank by cumulative payment. Existing listings can be topped up.,2026-09-30
+MicroLaunch,https://microlaunch.net/premium,Regular launch,Free,Not explicitly published,Automatic queue; ETA not published,Regular launch awaiting automatic scheduling.,2026-09-30
+MicroLaunch,https://microlaunch.net/premium,Launch Pro,Paid,$39 sale; $49 list,Skip the queue; launch anytime,"30-day campaign, boosts, featured placements, and permanent backlinks.",2026-09-30
+MicroLaunch,https://microlaunch.net/premium,Launch Plus,Paid,$79 sale; $99 list,Skip the queue; launch anytime,"Pro benefits plus long-form pages, more boosts, social promotion, and premium category placement.",2026-09-30
+DailyPings,https://dailypings.com/pricing,Badge listing,Free,$0,Instant after badge verification,Dofollow link while the badge remains active and 24 hours in “Newly launched.”,2026-09-30
+DailyPings,https://dailypings.com/pricing,Premium,Paid,$19 once,Live in seconds,"No badge requirement, permanent dofollow backlink, seven days in “Newly launched,” and newsletter inclusion.",2026-09-30
+DailyPings,https://dailypings.com/pricing,Site sponsor,Paid,$19.67/week,Selected sponsorship period,Site-wide promotional placement.,2026-09-30
+DailyPings,https://dailypings.com/pricing,Newsletter sponsor,Paid,$49/issue,Selected newsletter issue,Newsletter sponsorship placement.,2026-09-30
+LaunchIgniter,https://launchigniter.com/pricing,Free Launch,Free,$0,Manual review and queue; date may move,Requires a badge and includes seven days of homepage visibility.,2026-09-30
+LaunchIgniter,https://launchigniter.com/pricing,Basic Launch,Paid,$12 once,Guaranteed selected Monday,"No badge, no review queue, and a lifetime dofollow backlink.",2026-09-30
+LaunchIgniter,https://launchigniter.com/pricing,Pro Launch,Paid,$15 once,Guaranteed selected Monday,Basic benefits plus additional lifetime backlinks.,2026-09-30
+Touched Grass,https://www.touched-grass.com/create-profile,Public profile,Free,$0,Self-service; no published SLA,Founder profile and free badges rather than a conventional product launch.,2026-09-30
+Touched Grass,https://www.touched-grass.com/create-profile,Premium Badges,Paid,$4.99 lifetime,After payment,Premium badge access; not a listing upgrade.,2026-09-30
+Touched Grass,https://www.touched-grass.com/create-profile,Unlock Links,Paid,$19.99 once,Instant,Clickable profile links and a permanent dofollow backlink.,2026-09-30
+Touched Grass,https://www.touched-grass.com/create-profile,Get Featured,Paid,$29.99 per 30 days,Instant,Top-of-homepage placement with featured styling.,2026-09-30
+Touched Grass,https://www.touched-grass.com/create-profile,Ultimate Deal,Paid,$39.99 once,Instant,"Unlock Links, 30-day featured placement, and lifetime Premium Badges.",2026-09-30
+ListBulb,https://listbulb.com/pricing,Free,Free,$0,24–48 hours,Requires badge verification and three weekly upvotes.,2026-09-30
+ListBulb,https://listbulb.com/pricing,QuickPass,Paid,$10.50 sale; $15 list,Priority review within 6 hours,Faster review without the free-tier waiting conditions.,2026-09-30
+ListBulb,https://listbulb.com/pricing,Featured,Paid,$21 sale; $30 list,Priority review within 6 hours,QuickPass benefits plus featured placement.,2026-09-30
+Fazier,https://fazier.com/launch,Standard launch,Free,$0,Daily cycle; exact queue not published,Reviewed product launch.,2026-09-30
+Fazier,https://fazier.com/launch,Premium,Paid,$49,After approval,"15 days of promotion, homepage placement, and a permanent dofollow backlink.",2026-09-30
+AI Directories,https://www.aidirectori.es/pricing,30+ directories,Paid,$99,No guaranteed public SLA,Done-for-you submission to more than 30 directories.,2026-09-30
+AI Directories,https://www.aidirectori.es/pricing,60+ directories,Paid,$149,No guaranteed public SLA,Done-for-you submission to more than 60 directories.,2026-09-30
+AI Directories,https://www.aidirectori.es/pricing,100+ directories,Paid,$199,No guaranteed public SLA,Done-for-you submission to more than 100 directories.,2026-09-30
+DevHunt,https://devhunt.org/faq,Free launch,Free,$0,Assigned from queue; exact wait not published,Developer tools only; free link is nofollow.,2026-09-30
+DevHunt,https://devhunt.org/faq,Paid launch,Paid,$49 once,Choose any launch week,Permanent dofollow link.,2026-09-30
+PeerPush,https://peerpush.com/pricing,Free,Free,$0,Wait behind paid launches; ETA not published,Joins the publishing queue.,2026-09-30
+PeerPush,https://peerpush.com/pricing,Standard,Paid,$39,Live in 60 seconds,Instant publication.,2026-09-30
+PeerPush,https://peerpush.com/pricing,7-day boost,Paid,$89,Live in 60 seconds,Instant publication plus seven days of boosted visibility.,2026-09-30
+PeerPush,https://peerpush.com/pricing,30-day boost,Paid,$229,Live in 60 seconds,Instant publication plus 30 days of boosted visibility.,2026-09-30
+BetaList,https://betalist.com/submit,Paid submission,Paid,Shown at final submission step,Plan-dependent; shown before checkout,No free submission. Rejected submissions are refunded automatically.,2026-09-30
